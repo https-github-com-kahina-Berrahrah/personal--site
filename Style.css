@@ -151,6 +151,29 @@ section {
 
 }
 
-.contact-icons i {
-    color: white;
+ .contact h2{
+    font-size: 4rem;
+
+ }
+
+.form {
+
+    top: 70%;
+    left: 70%;
+    width: 600px;
+    padding: 10px;
+    font-size: 3rem;
 }
+
+.social-media img {
+
+    width: 50px;
+    height: 50%;
+    border-radius: 50%;
+    
+
+}           
+
+    
+
+  
